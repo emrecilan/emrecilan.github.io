@@ -1,0 +1,63 @@
+.container {
+    height: 650px;
+    width: 80%;
+    background-color: black;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 60px;
+}
+
+.menudiv{
+    height: 580px;
+    width: 6%;
+    background-color: white;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    
+}
+
+.profilediv{
+    height: 650px;
+    width: 40%;
+    background: url(pp.jpg) no-repeat;
+    background-size: cover;
+    
+}
+
+.aboutdiv{
+    height: 580px;
+    width: 54%;
+    background-color: white;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    overflow: auto;
+}
+
+.nopadding{
+    padding: 0px;
+}
+
+.nomargin{
+    margin: 0px;
+}
+
+.half{
+    padding:0 8px;
+    width:45.99999%;
+    display: block;
+    float: left;
+}
+.quarter{
+    padding:0 8px;
+    width:20%;
+    display: block;
+    float: left;
+    
+}
+
+.opacity-off:hover{
+    opacity: 1;
+}
+.w3-ul{list-style-type:none;padding:0;margin:0}
+.w3-ul li{padding:8px 16px;border-bottom:1px solid #ddd}
+.w3-ul li:last-child{border-bottom:none}
